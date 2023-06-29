@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(237, 171, 173);
+  font-family: 'Courier New', Courier, monospace
+}
+
+div.box {
+  border: thick solid rgb(198, 33, 33);
+  margin:left 0 auto;
+  padding: 10px;
+  width: 950px;
+  background-color:rgb(233, 202, 196);
+}
+
+h1 {
+  color: rgb(198, 33, 33);
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 35px;
+}
+
+.center {
+  width: 700px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+}
+
+ul {
+  font-weight: bold;
+  list-style: none;
+}
+
+h4 {
+  text-align: center;
+}
+
+
