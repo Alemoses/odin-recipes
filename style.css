@@ -46,6 +46,6 @@ img.image {
   font-size: 28px;
   color: rgb(202, 187, 187);
   display: inline-flex;
-  margin: auto;
-  flex: auto;
+  flex: 1;
 }
+
